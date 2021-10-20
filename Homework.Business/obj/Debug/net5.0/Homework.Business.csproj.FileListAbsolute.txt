@@ -1,0 +1,17 @@
+C:\Users\Mr. YUNT\source\repos\Homework\Homework.Business\bin\Debug\net5.0\Homework.Business.deps.json
+C:\Users\Mr. YUNT\source\repos\Homework\Homework.Business\bin\Debug\net5.0\Homework.Business.dll
+C:\Users\Mr. YUNT\source\repos\Homework\Homework.Business\bin\Debug\net5.0\ref\Homework.Business.dll
+C:\Users\Mr. YUNT\source\repos\Homework\Homework.Business\bin\Debug\net5.0\Homework.Business.pdb
+C:\Users\Mr. YUNT\source\repos\Homework\Homework.Business\bin\Debug\net5.0\AppCore.dll
+C:\Users\Mr. YUNT\source\repos\Homework\Homework.Business\bin\Debug\net5.0\Homework.DAL.dll
+C:\Users\Mr. YUNT\source\repos\Homework\Homework.Business\bin\Debug\net5.0\Homework.DAL.pdb
+C:\Users\Mr. YUNT\source\repos\Homework\Homework.Business\bin\Debug\net5.0\AppCore.pdb
+C:\Users\Mr. YUNT\source\repos\Homework\Homework.Business\obj\Debug\net5.0\Homework.Business.csproj.AssemblyReference.cache
+C:\Users\Mr. YUNT\source\repos\Homework\Homework.Business\obj\Debug\net5.0\Homework.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr. YUNT\source\repos\Homework\Homework.Business\obj\Debug\net5.0\Homework.Business.AssemblyInfoInputs.cache
+C:\Users\Mr. YUNT\source\repos\Homework\Homework.Business\obj\Debug\net5.0\Homework.Business.AssemblyInfo.cs
+C:\Users\Mr. YUNT\source\repos\Homework\Homework.Business\obj\Debug\net5.0\Homework.Business.csproj.CoreCompileInputs.cache
+C:\Users\Mr. YUNT\source\repos\Homework\Homework.Business\obj\Debug\net5.0\Homework.Business.csproj.CopyComplete
+C:\Users\Mr. YUNT\source\repos\Homework\Homework.Business\obj\Debug\net5.0\Homework.Business.dll
+C:\Users\Mr. YUNT\source\repos\Homework\Homework.Business\obj\Debug\net5.0\ref\Homework.Business.dll
+C:\Users\Mr. YUNT\source\repos\Homework\Homework.Business\obj\Debug\net5.0\Homework.Business.pdb
